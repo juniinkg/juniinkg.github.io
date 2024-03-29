@@ -1,10 +1,10 @@
 {
     "main": {
         "name": "Andrean Jr",
-        "description": "Sou desenvolvedor de software atuando como front-end utilizando HTML, Css, JavaScript .",
+        "description": "Sou um desenvolvedor de software atuando como front-end utilizando React,React Native, HTML, Css, JavaScript .",
         "image": "profilepic.jpg",
-        "bio": "Hello world, eu sou Andrean Jr., um desenvolvedor software atuante na área de front-end. Atualmente estou focado em aprimorar minha habilidades em JavaScript e React ,atraves de estudos e prática continua.",
-        "contactmessage": "Entre em cantato comigo para discurtimos mais detalhes.",
+        "bio": "Hello world, eu sou Andrean Jr., Um desenvolvedor de software atuante na área de front-end. Atualmente estou focado em aprimorar minha habilidades em JavaScript e React ,atraves de estudos e prática continua.",
+        "contactmessage": "Entre em contato comigo para discurtimos mais detalhes.",
         "email": "andreanjunior121@gmail.com",
         "phone": "64-99223-0810",
         "github": "https://github.com/juniinkg",
@@ -48,31 +48,27 @@
         "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
         "education": [
             {
-                "school": "University?",
-                "degree": "Masters in Beer tasting",
-                "graduated": "April 2007",
-                "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+                "school": "Coursera",
+                "degree": "Introduction to Front-End Development",
+                "graduated": "Março 2024",
+                "description": "Distinguir entre desenvolvedores front-end, back-end e full-stack." "Crie e estilize uma página da web com HTML e CSS."
+                "Os benefícios de trabalhar com estruturas de UI."
             },
             {
-                "school": "Hogwarts School of Witchcraft and Wizardry",
-                "degree": "Gryffindor House",
-                "graduated": "March 2003",
-                "description": "Received 10 Outstandings in Care of Magical Creatures, Transfiguration, Potions, Charms, Herbology, Astronomy, History of Magic, Arithmancy, Ancient Runes, and Wandmaking."
+                "school": "Rocketseat",
+                "degree": "fundamentos da programação web, HTML, CSS, Javascript, Git e Github.",
+                "graduated": "Novembro 2023"
+                
             }
         ],
         "work": [
             {
-                "company": "Department of Magical Law Enforcement",
-                "title": "Ministry of Magic",
-                "years": "December 2010 - Present",
-                "description": "Work to put an end to pro-pureblood laws through negotiation, petitions, and enforcing and creating fair laws for the wizarding community.s"
-            },
-            {
-                "company": "Department for the Regulation and Control of Magical Creatures",
-                "title": "Ministry of Magic",
-                "years": "March 2007 - December 2010",
-                "description": "Worked to improve the quality of life for house-elves and other disenfranchised creatures."
+                "company": "A. M. Desenvolvimento de Software Ltda.",
+                "title": "desenvolvedor de software front-end",
+                "years": "fevereiro 2024 - Present",
+                "description": "Responsável por criar a interface visual e interativa de sites ou aplicativos web. "
             }
+           
         ],
         "skills": [
             {
@@ -100,8 +96,8 @@
     "portfolio": {
         "projects": [
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "title": "Bola de cristal",
+                "category": "Uma forma divertida de gerar resposta para o usuário.",
                 "image": "project1.jpg",
                 "url": "https://www.canadianwanderlust.com"
             },
