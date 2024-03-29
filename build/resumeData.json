@@ -3,7 +3,7 @@
         "name": "Andrean Jr",
         "description": "Sou um desenvolvedor de software atuando como front-end utilizando React,React Native, HTML, Css, JavaScript .",
         "image": "profilepic.jpg",
-        "bio": "Hello world, eu sou Andrean Jr., Um desenvolvedor de software atuante na área de front-end. Atualmente estou focado em aprimorar minha habilidades em JavaScript e React ,atraves de estudos e prática continua.",
+        "bio": "Hello world, eu sou Andrean Jr., Um desenvolvedor de software atuante na área de front-end. Atualmente estou focado em aprimorar minhas habilidades em JavaScript e React ,atraves de estudos e prática continua.",
         "contactmessage": "Entre em contato comigo para discurtimos mais detalhes.",
         "email": "andreanjunior121@gmail.com",
         "phone": "64-99223-0810",
@@ -99,26 +99,21 @@
                 "title": "Bola de cristal",
                 "category": "Uma forma divertida de gerar resposta para o usuário.",
                 "image": "project1.jpg",
-                "url": "https://www.canadianwanderlust.com"
+                "url": ""
             },
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "title": "Gerenciador de links",
+                "category": "Uma ferramenta que permite aos usuários organizar, armazenar e compartilhar links da web de forma mais eficiente.",
                 "image": "project2.jpg",
-                "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+                "url": ""
             },
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "title": "App React Native",
+                "category": "Os usuários podem salvar imagens e vídeos temáticos, que são como coleções organizadas por interesse ou categoria.",
                 "image": "project3.jpg",
-                "url": "http://www.timbakerdev.com"
-            },
-            {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
-                "image": "project4.jpg",
-                "url": "http://www.smirkspace.com"
+                "url": ""
             }
+           
         ]
     }
 }
