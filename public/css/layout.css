@@ -1082,7 +1082,7 @@ call-to-action .button {
 }
 #twitter li b a {
    font: 13px/36px 'opensans-regular', Sans-serif;
-   color: #000000 !important;
+   color: #474747 !important;
    border: none;
 }
 
@@ -1183,7 +1183,7 @@ footer .social-links li:first-child { margin-left: 0; }
    margin-right: 15px;
 }
 .project-btn{
-   background-color: #1abc9c !important;
+   background-color: #FFFFFF !important;
 }
 .github-btn{
    background-color: #34495e !important;
