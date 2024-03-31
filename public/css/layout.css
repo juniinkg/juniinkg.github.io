@@ -1082,7 +1082,7 @@ call-to-action .button {
 }
 #twitter li b a {
    font: 13px/36px 'opensans-regular', Sans-serif;
-   color: #474747 !important;
+   color: #000000 !important;
    border: none;
 }
 
@@ -1094,7 +1094,7 @@ call-to-action .button {
 footer {
    padding-top: 48px;
    margin-bottom: 48px;
-   color: #303030;
+   color: #000000;
    font-size: 14px;
    text-align: center;
    position: relative;
