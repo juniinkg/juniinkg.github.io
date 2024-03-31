@@ -1082,7 +1082,7 @@ call-to-action .button {
 }
 #twitter li b a {
    font: 13px/36px 'opensans-regular', Sans-serif;
-   color: #474747 !important;
+   color: #fff !important;
    border: none;
 }
 
@@ -1169,7 +1169,7 @@ footer .social-links li:first-child { margin-left: 0; }
    line-height: 60px;
  	border-radius: 100%;
 }
-#go-top a:hover { background-color: #fff; }
+#go-top a:hover { background-color: #474747; }
 
 
 .social .btn:first-child{
