@@ -1164,12 +1164,12 @@ footer .social-links li:first-child { margin-left: 0; }
    -ms-transition: all 0.2s ease-in-out;
    transition: all 0.2s ease-in-out;
 
-   color: #fff;
+   color: #474747;
    font-size: 21px;
    line-height: 60px;
  	border-radius: 100%;
 }
-#go-top a:hover { background-color: #fff; }
+#go-top a:hover { background-color: #474747; }
 
 
 .social .btn:first-child{
