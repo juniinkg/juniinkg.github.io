@@ -43,7 +43,7 @@ export default function Portfolio(props) {
     return (
         <section className={classes.root} id="portfolio">
             <Container className="row">
-            <h1>Check Out Some of My Works.</h1>
+            <h1>CONFIRA ALGUNS DE MEUS TRABALHOS</h1>
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                         {projects}
                     </div>
