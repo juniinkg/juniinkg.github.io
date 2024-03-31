@@ -1,10 +1,10 @@
 {
     "main": {
         "name": "Andrean Jr",
-        "description": "Sou um desenvolvedor de software atuando como front-end utilizando React,React Native, HTML, Css, JavaScript .",
+        "description": "Olá! Sou um entusiasta da programação e do desenvolvimento de software, apaixonado por explorar novas possibilidades e criar soluções inovadoras. Atualmente, estou focado em desenvolvimento front-end, utilizando tecnologias como React, React Native, HTML, CSS e JavaScript para construir interfaces interativas e responsivas",
         "image": "profilepic.jpg",
-        "bio": "Hello world, eu sou Andrean Jr., Um desenvolvedor de software atuante na área de front-end. Atualmente estou focado em aprimorar minhas habilidades em JavaScript e React ,atraves de estudos e prática continua.",
-        "contactmessage": "Entre em contato comigo para discurtimos mais detalhes.",
+        "bio": "Hello world, sou Andrean Jr., Um desenvolvedor de software atuante na área de front-end. Atualmente estou focado em aprimorar minhas habilidades em JavaScript e React ,atraves de estudos e prática continua.",
+        "contactmessage": "Entre em contato comigo para discutimos mais detalhes.",
         "email": "andreanjunior121@gmail.com",
         "phone": "64-99223-0810",
         "github": "https://github.com/juniinkg",
