@@ -436,7 +436,7 @@ dd { margin: 0 0 0 20px; }
 }
 .pagination .current,
 .pagination .current:hover {
-   background-color: #000000;
+   background-color: #A9ADB2;
    color: #fff;
 }
 .pagination .inactive,
