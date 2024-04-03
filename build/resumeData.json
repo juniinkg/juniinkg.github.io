@@ -29,7 +29,7 @@
             },
             {
                 "name": "linkedin",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/andrean-j-58a3b8272/",
                 "className": "fa fa-linkedin"
             },
             {
@@ -39,7 +39,7 @@
             },
             {
                 "name": "github",
-                "url": "https://github.com/",
+                "url": "https://github.com/andreanjunior?tab=repositories",
                 "className": "fa fa-github"
             }
         ]
@@ -99,19 +99,25 @@
                 "title": "Bola de cristal",
                 "category": "Uma forma divertida de gerar resposta para o usuário.",
                 "image": "project1.png",
-                "url": ""
+                "url": "https://andreanjunior.github.io/pergunte-me/"
             },
             {
                 "title": "Gerenciador de links",
                 "category": "Uma ferramenta que permite aos usuários organizar, armazenar e compartilhar links da web de forma mais eficiente.",
                 "image": "project2.png",
-                "url": ""
+                "url": "https://andreanjunior.github.io/gerenciador-de-links/"
             },
             {
                 "title": "App React Native",
                 "category": "Os usuários podem salvar imagens e vídeos temáticos, que são como coleções organizadas por interesse ou categoria.",
                 "image": "project3.jpg",
                 "url": ""
+            },
+            {
+                "title": "NLW-UNITE",
+                "category": "Desenvolvimento de um sistema de inscrição e check-in para participantes do evento promovido pela Rockseat.",
+                "image": "project4.png",
+                "url": "https://andreanjunior.github.io/nlw-unite/"
             }
            
         ]
