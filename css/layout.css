@@ -962,7 +962,7 @@ call-to-action .button {
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #0762f9; }
+#contact a, #contact a:visited  { color: #000000; }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
@@ -1042,7 +1042,7 @@ call-to-action .button {
 	background: #fff;
 }
 #contact span.required {
-	color: #0762f9;
+	color: #000000;
 	font-size: 13px;
 }
 #message-warning, #message-success {
