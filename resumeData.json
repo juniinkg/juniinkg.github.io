@@ -3,7 +3,7 @@
         "name": "Andrean Jr",
         "description": "Olá! Sou um entusiasta da programação e do desenvolvimento de software, apaixonado por explorar novas possibilidades e criar soluções inovadoras. Atualmente, estou focado em desenvolvimento front-end, utilizando tecnologias como React, React Native, HTML, CSS e JavaScript para construir interfaces interativas e responsivas",
         "image": "profilepic.jpg",
-        "bio": "Hello world, sou Andrean Jr., Um desenvolvedor de software atuante na área de front-end. Atualmente estou focado em aprimorar minhas habilidades em JavaScript e React ,atraves de estudos e prática continua.",
+        "bio": "Andrean Jr., Um desenvolvedor de software atuante na área de front-end. Atualmente estou focado em aprimorar minhas habilidades em JavaScript e React ,atraves de estudos e prática continua.",
         "contactmessage": "Entre em contato comigo para discutimos mais detalhes.",
         "email": "andreanjunior121@gmail.com",
         "phone": "64-99223-0810",
@@ -11,8 +11,8 @@
         "project": "https://github.com/",
         "address": {
             
-            "city": "(Bom Jesus)",
-            "state": "(Goias)"
+            "city": "(Bom Jesus - Goias)",
+            "state": "(Brasil)"
         },
         "website": "https://github.com/",
         "resumedownload": "https://github.com/",
@@ -49,15 +49,15 @@
         "education": [
             {
                 "school": "Coursera",
-                "degree": "Introduction to Front-End Development",
-                "graduated": "Março 2024",
-                "description": "Distinguir entre desenvolvedores front-end, back-end e full-stack. Crie e estilize uma página da web com HTML e CSS."
+                "degree": "Meta Front-End Developer",
+                "graduated": "Fevereiro 2024 , Atualmente",
+                "description": ""
                 
             },
             {
                 "school": "Rocketseat",
                 "degree": "fundamentos da programação web, HTML, CSS, Javascript, Git e Github.",
-                "graduated": "Novembro 2023"
+                "graduated": "Novembro 2023, Janeiro 2024"
                 
             }
         ],
