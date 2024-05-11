@@ -102,16 +102,16 @@
                 "url": "https://andreanjunior.github.io/pergunte-me/"
             },
             {
-                "title": "Game Mario Bros",
-                "category": "Embarque em uma aventura clássica com o nosso jogo do Mario em JavaScript! ",
+                "title": "Gerenciador de links",
+                "category": "Uma ferramenta que permite aos usuários organizar, armazenar e compartilhar links da web de forma mais eficiente.",
                 "image": "project2.png",
-                "url": "https://andreanjunior.github.io/mario/"
+                "url": "https://andreanjunior.github.io/gerenciador-de-links/"
             },
             {
-                "title": "Projeto Restaurante",
-                "category": "Explore meu projeto de restaurante e descubra como cada linha de código foi habilmente tecida para criar uma experiência digital que celebra os sabores da culinária.",
+                "title": "App React Native",
+                "category": "Os usuários podem salvar imagens e vídeos temáticos, que são como coleções organizadas por interesse ou categoria.",
                 "image": "project3.jpg",
-                "url": "https://andreanjunior.github.io/Projeto-Restaurante/"
+                "url": "https://andreanjunior.github.io/nlw-unite/"
             },
             {
                 "title": "NLW-UNITE",
