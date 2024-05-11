@@ -102,10 +102,10 @@
                 "url": "https://andreanjunior.github.io/pergunte-me/"
             },
             {
-                "title": "Gerenciador de links",
-                "category": "Uma ferramenta que permite aos usuários organizar, armazenar e compartilhar links da web de forma mais eficiente.",
+                "title": "Game Mario Bros",
+                "category": "Embarque em uma aventura clássica com o nosso jogo do Mario em JavaScript! ",
                 "image": "project2.png",
-                "url": "https://andreanjunior.github.io/gerenciador-de-links/"
+                "url": "https://andreanjunior.github.io/mario/"
             },
             {
                 "title": "App React Native",
