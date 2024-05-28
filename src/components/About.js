@@ -38,7 +38,7 @@ export default function About(props) {
                         </div>
                         <div className="columns download">
                             <p>
-                                <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
+                                <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download currículo</a>
                             </p>
                         </div>
                     </div>
