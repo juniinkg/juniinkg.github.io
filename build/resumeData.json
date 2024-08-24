@@ -1,125 +1,131 @@
 {
-    "main": {
-        "name": "Andrean Jr",
-        "description": "Bem-vindo ao meu portfólio, onde compartilho alguns dos meus projetos mais recentes e impactantes. Abaixo, na seção 'Works', você encontrará uma seleção criteriosa de projetos que concebi, desenvolvi e implementei do início ao fim. Dê uma olhada e descubra como minha paixão pela codificação e minha busca pela excelência se refletem em cada projeto. Explore-os agora para vislumbrar como posso agregar valor à sua equipe e aos seus projetos.",
-        "image": "profilepic.jpg",
-        "bio": "fa fa-github, fa fa-facebook",
-        "contactmessage": "Entre em contato comigo para discutimos mais detalhes.",
-        "email": "andreanjunior121@gmail.com",
-        "phone": "64-99223-0810",
-        "github": "https://github.com/andreanjunior",
-        "project": "https://github.com/",
-        "address": {
-            
-            "city": "(Bom Jesus - Goias)",
-            "state": "(Brasil)"
-        },
-        "website": "https://github.com/",
-        "resumedownload": "http://drive.google.com/u/0/uc?id=182TSa1JVpINYjdqE0FchIdE2oISZDlki&export=download",
-        "social": [
-            {
-                "name": "facebook",
-                "url": "https://github.com/",
-                "className": "fa fa-facebook"
-            },
-            {
-                "name": "twitter",
-                "url": "http://twitter.com",
-                "className": "fa fa-twitter"
-            },
-            {
-                "name": "linkedin",
-                "url": "https://www.linkedin.com/in/andrean-jr1997",
-                "className": "fa fa-linkedin"
-            },
-            {
-                "name": "instagram",
-                "url": "http://instagram.com/",
-                "className": "fa fa-instagram"
-            },
-            {
-                "name": "github",
-                "url": "https://github.com/andreanjunior?tab=repositories",
-                "className": "fa fa-github"
-            }
-        ]
+  "main": {
+    "name": "Andrean Jr",
+    "description": "Bem-vindo ao meu portfólio, onde compartilho alguns dos meus projetos mais recentes e impactantes. Abaixo, na seção 'Works', você encontrará uma seleção criteriosa de projetos que concebi, desenvolvi e implementei do início ao fim. Dê uma olhada e descubra como minha paixão pela codificação e minha busca pela excelência se refletem em cada projeto. Explore-os agora para vislumbrar como posso agregar valor à sua equipe e aos seus projetos.",
+    "image": "profilepic.jpg",
+    "bio": [
+      {
+        "name": "facebook",
+        "url": "https://github.com/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/andreanjunior?tab=repositories",
+        "className": "fa fa-github"
+      }
+    ],
+    "contactmessage": "Entre em contato comigo para discutimos mais detalhes.",
+    "email": "andreanjunior121@gmail.com",
+    "phone": "64-99223-0810",
+    "github": "https://github.com/andreanjunior",
+    "project": "https://github.com/",
+    "address": {
+      "city": "(Bom Jesus - Goias)",
+      "state": "(Brasil)"
     },
-    "resume": {
-        "skillmessage": "Habilidades",
-        "education": [
-            {
-                "school": "Coursera",
-                "degree": "Meta Front-End Developer",
-                "graduated": "Fevereiro 2024 , Atualmente",
-                "description": ""
-                
-            },
-            {
-                "school": "Rocketseat",
-                "degree": "fundamentos da programação web, HTML, CSS, Javascript, Git e Github.",
-                "graduated": "Novembro 2023, Fevereiro 2024"
-                
-            }
-        ],
-        "work": [
-            {
-                "company": "A. M. Desenvolvimento de Software Ltda.",
-                "title": "desenvolvedor de software front-end",
-                "years": "fevereiro 2024 - Present",
-                "description": "Responsável por criar a interface visual e interativa de sites ou aplicativos web. "
-            }
-           
-        ],
-        "skills": [
-            {
-                "name": "HTML",
-                "level": "100%"
-            },
-            {
-                "name": "CSS",
-                "level": "100%"
-            },
-            {
-                "name": "JavaScript",
-                "level": "100%"
-            },
-            {
-                "name": "ReactJs",
-                "level": "100%"
-            },
-            {
-                "name": "React-Native",
-                "level": "100%"
-            }
-        ]
-    },
-    "portfolio": {
-        "projects": [
-            {
-                "title": "Bola de cristal",
-                "category": "Uma forma divertida de gerar resposta para o usuário.",
-                "image": "project1.png",
-                "url": "https://andreanjunior.github.io/pergunte-me/"
-            },
-            {
-                "title": "Mario Bros JavaScript",
-                "category": "O jogo do Mario Bros em JavaScript é uma recriação fiel do clássico jogo de plataforma, onde os jogadores assumem o papel do icônico encanador Mario",
-                "image": "project2.png",
-                "url": "https://andreanjunior.github.io/mario/"
-            },
-            {
-                "title": " Burger Restaurant Project",
-                "category": " Projeto de hamburgueria que combina design  com funcionalidade otimizada para operações de food service.",
-                "image": "project3.png",
-                "url": "https://andreanjunior.github.io/burger-restaurant-project/"
-            },
-            {
-                "title": "NLW-UNITE",
-                "category": "Desenvolvimento de um sistema de inscrição e check-in para participantes do evento promovido pela Rockseat.",
-                "image": "project4.png",
-                "url": "https://andreanjunior.github.io/nlw-unite/"
-            }
-           
-        ]
-    }
+    "website": "https://github.com/",
+    "resumedownload": "http://drive.google.com/u/0/uc?id=182TSa1JVpINYjdqE0FchIdE2oISZDlki&export=download",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://github.com/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/andrean-jr1997",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/andreanjunior?tab=repositories",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Habilidades",
+    "education": [
+      {
+        "school": "Coursera",
+        "degree": "Meta Front-End Developer",
+        "graduated": "Fevereiro 2024 , Atualmente",
+        "description": ""
+      },
+      {
+        "school": "Rocketseat",
+        "degree": "fundamentos da programação web, HTML, CSS, Javascript, Git e Github.",
+        "graduated": "Novembro 2023, Fevereiro 2024"
+      }
+    ],
+    "work": [
+      {
+        "company": "A. M. Desenvolvimento de Software Ltda.",
+        "title": "desenvolvedor de software front-end",
+        "years": "fevereiro 2024 - Present",
+        "description": "Responsável por criar a interface visual e interativa de sites ou aplicativos web. "
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "React-Native",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Bola de cristal",
+        "category": "Uma forma divertida de gerar resposta para o usuário.",
+        "image": "project1.png",
+        "url": "https://andreanjunior.github.io/pergunte-me/"
+      },
+      {
+        "title": "Mario Bros JavaScript",
+        "category": "O jogo do Mario Bros em JavaScript é uma recriação fiel do clássico jogo de plataforma, onde os jogadores assumem o papel do icônico encanador Mario",
+        "image": "project2.png",
+        "url": "https://andreanjunior.github.io/mario/"
+      },
+      {
+        "title": " Burger Restaurant Project",
+        "category": " Projeto de hamburgueria que combina design  com funcionalidade otimizada para operações de food service.",
+        "image": "project3.png",
+        "url": "https://andreanjunior.github.io/burger-restaurant-project/"
+      },
+      {
+        "title": "NLW-UNITE",
+        "category": "Desenvolvimento de um sistema de inscrição e check-in para participantes do evento promovido pela Rockseat.",
+        "image": "project4.png",
+        "url": "https://andreanjunior.github.io/nlw-unite/"
+      }
+    ]
+  }
 }
