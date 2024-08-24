@@ -1,5 +1,5 @@
 import React from 'react';
-import Icone from './icone';
+
 
 
 
@@ -8,7 +8,7 @@ export default function About(props) {
     if (props.data) {
         var name = props.data.name;
         var profilepic = 'images/' + props.data.image;
-        //var bio = props.data.bio;
+        var bio = props.data.bio;
         var street = props.data.address.street;
         var city = props.data.address.city;
         var state = props.data.address.state;
@@ -27,7 +27,7 @@ export default function About(props) {
                     <h2>Sobre mim</h2>
 
                     <p>
-                        <Icone />
+                       {bio}
                     </p>
                     <div className="row">
                         <div className="columns contact-details">
